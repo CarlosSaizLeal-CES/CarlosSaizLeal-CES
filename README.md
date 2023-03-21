@@ -1,6 +1,6 @@
 ## Hola a todos, soy Carlos Saiz
 
-Actualmente estoy estudiando en CES Juan Pablo II
+- Actualmente estoy estudiando en CES Juan Pablo II
 
 
 ![image](https://user-images.githubusercontent.com/114073080/226459210-2a4fbf5a-62ba-42f6-9e83-bdefa54c5424.png)
