@@ -1,7 +1,5 @@
 ## Hola a todos, soy Carlos Saiz
 
-- Actualmente estoy estudiando en CES Juan Pablo II
-
 
 
 ## Entrega Entornos de desarrollo
